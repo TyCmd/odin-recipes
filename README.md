@@ -1,2 +1,3 @@
 # odin-recipes
-First project for odin
+
+The original project for odin
